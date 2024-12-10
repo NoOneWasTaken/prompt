@@ -1,4 +1,4 @@
-module github.com/cqroot/prompt
+module github.com/NoOneWasTaken/prompt
 
 go 1.20
 
